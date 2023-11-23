@@ -1,0 +1,34 @@
+{
+  "transcripts": [
+    {
+      "confidence": -23.229354858398438,
+      "words": [
+        {
+          "word": "\u0644\u064e\u0643\u064e",
+          "start_time": 0.36,
+          "duration": 0.38
+        }
+      ]
+    },
+    {
+      "confidence": -26.66339874267578,
+      "words": [
+        {
+          "word": "\u0644\u0651\u064e\u0643\u064e",
+          "start_time": 0.36,
+          "duration": 0.46
+        }
+      ]
+    },
+    {
+      "confidence": -27.306968688964844,
+      "words": [
+        {
+          "word": "\u0644\u0651\u064e\u0646",
+          "start_time": 0.36,
+          "duration": 0.44
+        }
+      ]
+    }
+  ]
+}

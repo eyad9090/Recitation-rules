@@ -1,0 +1,44 @@
+{
+  "transcripts": [
+    {
+      "confidence": -64.65290069580078,
+      "words": [
+        {
+          "word": "\u0645\u0650\u0646\u0652",
+          "start_time": 0.8,
+          "duration": 0.26
+        },
+        {
+          "word": "\u0648\u064e\u0642\u0650\u0647\u0650\u0645\u064f",
+          "start_time": 1.08,
+          "duration": 2.5
+        }
+      ]
+    },
+    {
+      "confidence": -65.79979705810547,
+      "words": [
+        {
+          "word": "\u0645\u0651\u0650\u0646\u0652",
+          "start_time": 0.8,
+          "duration": 0.26
+        },
+        {
+          "word": "\u0648\u064e\u0642\u0650\u0647\u0650\u0645\u064f",
+          "start_time": 1.08,
+          "duration": 2.5
+        }
+      ]
+    },
+    {
+      "confidence": -69.87265014648438,
+      "words": [
+        {
+          "word": "\u0645\u0650\u0646\u0652\u0647\u064f",
+          "start_time": 0.8,
+          "duration": 2.18
+        }
+      ]
+    }
+  ]
+}

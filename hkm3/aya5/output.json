@@ -1,0 +1,49 @@
+{
+  "transcripts": [
+    {
+      "confidence": -82.67250061035156,
+      "words": [
+        {
+          "word": "\u0648\u064e\u0671\u0634\u0652\u062a\u064e\u0639\u064e\u0644\u064e",
+          "start_time": 0.72,
+          "duration": 2.2
+        },
+        {
+          "word": "\u0628\u0650\u0645\u064f\u0635\u064e\u064a\u0652\u0637\u0650\u0631\u064d",
+          "start_time": 2.94,
+          "duration": 1.78
+        }
+      ]
+    },
+    {
+      "confidence": -88.84355163574219,
+      "words": [
+        {
+          "word": "\u0646\u0651\u064e\u0628\u0652\u062a\u064e\u0644\u0650\u064a\u0647\u0650",
+          "start_time": 0.68,
+          "duration": 2.02
+        },
+        {
+          "word": "\u0628\u0650\u0645\u064f\u0635\u064e\u064a\u0652\u0637\u0650\u0631\u064d",
+          "start_time": 2.74,
+          "duration": 1.98
+        }
+      ]
+    },
+    {
+      "confidence": -89.92190551757812,
+      "words": [
+        {
+          "word": "\u064a\u064e\u0641\u0652\u0639\u064e\u0644\u0652\u0647\u064f",
+          "start_time": 0.72,
+          "duration": 1.98
+        },
+        {
+          "word": "\u0628\u0650\u0645\u064f\u0635\u064e\u064a\u0652\u0637\u0650\u0631\u064d",
+          "start_time": 2.74,
+          "duration": 1.98
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "transcripts": [
+    {
+      "confidence": -68.8379898071289,
+      "words": [
+        {
+          "word": "\u0671\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e",
+          "start_time": 1.32,
+          "duration": 0.72
+        },
+        {
+          "word": "\u064a\u064f\u0642\u0650\u064a\u0645\u064f\u0648\u0646\u064e",
+          "start_time": 2.26,
+          "duration": 0.92
+        },
+        {
+          "word": "\u0671\u0644\u0635\u0651\u064e\u0644\u064e\u0648\u0670\u0629\u064e",
+          "start_time": 3.2,
+          "duration": 0.54
+        },
+        {
+          "word": "\u0648\u064e\u064a\u064f\u0624\u0652\u062a\u064f\u0648\u0646\u064e",
+          "start_time": 3.76,
+          "duration": 1.06
+        },
+        {
+          "word": "\u0671\u0644\u0632\u0651\u064e\u0643\u064e\u0648\u0670\u0629\u064e",
+          "start_time": 4.84,
+          "duration": 0.8
+        },
+        {
+          "word": "\u0648\u064e\u0647\u064f\u0645",
+          "start_time": 5.66,
+          "duration": 0.8
+        },
+        {
+          "word": "\u0628\u0650\u0671\u0644\u0652\u0621\u064e\u0627\u062e\u0650\u0631\u064e\u0629\u0650",
+          "start_time": 6.54,
+          "duration": 1.28
+        },
+        {
+          "word": "\u0647\u064f\u0645\u0652",
+          "start_time": 7.96,
+          "duration": 0.24
+        },
+        {
+          "word": "\u064a\u064f\u0648\u0642\u0650\u0646\u064f\u0648\u0646\u064e",
+          "start_time": 8.32,
+          "duration": 1.24
+        }
+      ]
+    },
+    {
+      "confidence": -90.1456527709961,
+      "words": [
+        {
+          "word": "\u0671\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e",
+          "start_time": 1.32,
+          "duration": 0.72
+        },
+        {
+          "word": "\u064a\u064f\u0642\u0650\u064a\u0645\u064f\u0648\u0646\u064e",
+          "start_time": 2.26,
+          "duration": 0.92
+        },
+        {
+          "word": "\u0671\u0644\u0635\u0651\u064e\u0644\u064e\u0648\u0670\u0629\u064e",
+          "start_time": 3.2,
+          "duration": 0.54
+        },
+        {
+          "word": "\u0648\u064e\u064a\u064f\u0624\u0652\u062a\u064f\u0648\u0646\u064e",
+          "start_time": 3.76,
+          "duration": 1.06
+        },
+        {
+          "word": "\u0671\u0644\u0632\u0651\u064e\u0643\u064e\u0648\u0670\u0629\u064e",
+          "start_time": 4.84,
+          "duration": 1.0
+        },
+        {
+          "word": "\u0647\u064f\u0645",
+          "start_time": 5.86,
+          "duration": 0.66
+        },
+        {
+          "word": "\u0628\u0650\u0671\u0644\u0652\u0621\u064e\u0627\u062e\u0650\u0631\u064e\u0629\u0650",
+          "start_time": 6.54,
+          "duration": 1.2
+        },
+        {
+          "word": "\u0647\u064f\u0645\u0652",
+          "start_time": 7.8,
+          "duration": 0.28
+        },
+        {
+          "word": "\u064a\u064f\u0648\u0642\u0650\u0646\u064f\u0648\u0646\u064e",
+          "start_time": 8.16,
+          "duration": 1.4
+        }
+      ]
+    },
+    {
+      "confidence": -91.97260284423828,
+      "words": [
+        {
+          "word": "\u0671\u0644\u0651\u064e\u0630\u0650\u064a\u0646\u064e",
+          "start_time": 1.32,
+          "duration": 0.72
+        },
+        {
+          "word": "\u064a\u064f\u0642\u0650\u064a\u0645\u064f\u0648\u0646\u064e",
+          "start_time": 2.26,
+          "duration": 0.92
+        },
+        {
+          "word": "\u0671\u0644\u0635\u0651\u064e\u0644\u064e\u0648\u0670\u0629\u064e",
+          "start_time": 3.2,
+          "duration": 0.54
+        },
+        {
+          "word": "\u0648\u064e\u064a\u064f\u0624\u0652\u062a\u064f\u0648\u0646\u064e",
+          "start_time": 3.76,
+          "duration": 1.06
+        },
+        {
+          "word": "\u0644\u0651\u064e\u0643\u064e",
+          "start_time": 4.84,
+          "duration": 0.58
+        },
+        {
+          "word": "\u0648\u064e\u0647\u064f\u0645",
+          "start_time": 5.44,
+          "duration": 1.02
+        },
+        {
+          "word": "\u0628\u0650\u0671\u0644\u0652\u0621\u064e\u0627\u062e\u0650\u0631\u064e\u0629\u0650",
+          "start_time": 6.5,
+          "duration": 1.24
+        },
+        {
+          "word": "\u0647\u064f\u0645\u0652",
+          "start_time": 7.8,
+          "duration": 0.28
+        },
+        {
+          "word": "\u064a\u064f\u0648\u0642\u0650\u0646\u064f\u0648\u0646\u064e",
+          "start_time": 8.16,
+          "duration": 1.4
+        }
+      ]
+    }
+  ]
+}

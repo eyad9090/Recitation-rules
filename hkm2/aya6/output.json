@@ -1,0 +1,28 @@
+{
+  "transcripts": [
+    {
+      "confidence": -0.19250859320163727,
+      "words": []
+    },
+    {
+      "confidence": -31.15877914428711,
+      "words": [
+        {
+          "word": "\u0623\u064e\u0646",
+          "start_time": 0.52,
+          "duration": 0.04
+        }
+      ]
+    },
+    {
+      "confidence": -32.149505615234375,
+      "words": [
+        {
+          "word": "\u0645\u064e\u0627",
+          "start_time": 0.52,
+          "duration": 0.04
+        }
+      ]
+    }
+  ]
+}
